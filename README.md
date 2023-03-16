@@ -2,7 +2,7 @@
 A Count Down Timer App Based on React.
 
 # Description
-Tech Stack: React.JS.
+Tech Stack: ReactJS.
 - There are two inputs minute and seconds and an element to show count down time.
 - Time should be visible in 00:00 format, append 0 if required
 - There are buttons to start, pause and reset timer.
@@ -26,6 +26,3 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
